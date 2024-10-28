@@ -4,8 +4,6 @@ Submitted by: Heeba Eddouh
 
 Trivia is an app that allows you to guess words or answer questions.
 
-Time spent: 3 hours spent in total
-
 ## Required Features
 
 The following **required** functionality is completed:
@@ -16,24 +14,9 @@ The following **required** functionality is completed:
 - [x] Users can see score after submitting all questions.
 - [x] True or False questions only have two options.
 
-
-The following **optional** features are implemented:
-
-  
-- [ ] Allow the user to choose a specific category of questions.
-- [ ] Provide the user feedback on whether each question was correct before navigating to the next.
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 https://imgur.com/a/V8EEGa3
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
